@@ -1238,6 +1238,7 @@ A selection of platforms offering API integration for various AI applications an
 - [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
 - [onUI](https://github.com/onllm-dev/onUI) - Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents. Works with Claude Code, Cursor, Windsurf, Copilot. Chrome, Edge, Firefox. Free, GPL-3.0.
+- [HeyTensor](https://heytensor.com) - Free browser-based PyTorch tensor shape calculator with 22 tools. Computes shapes through Conv, Linear, LSTM, and Transformer layers without running code. Includes architecture presets (LeNet, ResNet block, Transformer encoder) and a "paste error" mode for parsing PyTorch RuntimeErrors.
 
 ---
 
@@ -1254,6 +1255,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from all major providers with token counters, cost calculators, and benchmark data.
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [BlackVault](https://github.com/venkat22022202/black-vault) - Open-source proxy gateway for AI API keys. Generate proxy tokens for agents — BlackVault injects the real key server-side and forwards to OpenAI, Anthropic, Google AI, and Nebius AI. Kill a token for instant revocation.
+- [LochBot](https://lochbot.com) - Free browser-based prompt injection vulnerability checker. Analyzes LLM system prompts against 31 attack patterns (jailbreaks, role override, data exfiltration) and returns a security score with remediation guidance. No signup, runs client-side.
 
 ---
 
