@@ -421,21 +421,21 @@ Claude Code is Anthropic’s agentic coding system designed to handle full softw
 - **[Claude Code](https://claude.com/product/claude-code)** – AI coding agent that works in your terminal, IDE, or cloud environment.
 
 - **Core Models**:
-  - Built on **Claude Opus 4.6**, **Sonnet 4.6**, and **Haiku 4.5** depending on task complexity and performance needs :contentReference[oaicite:0]{index=0}  
+  - Built on **Claude Opus 4.6**, **Sonnet 4.6**, and **Haiku 4.5** depending on task complexity and performance needs 
 
 - **Capabilities**:
-  - **Full codebase understanding** – Reads and maps entire repositories automatically :contentReference[oaicite:1]{index=1}  
+  - **Full codebase understanding** – Reads and maps entire repositories automatically
   - **Multi-file editing** – Makes coordinated changes across large codebases  
-  - **Autonomous workflows** – Can implement features, fix bugs, and handle tasks end-to-end :contentReference[oaicite:2]{index=2}  
-  - **Command execution** – Runs terminal commands, scripts, and developer tools :contentReference[oaicite:3]{index=3}  
-  - **Tool integration** – Works with Git, CI/CD, databases, and external services :contentReference[oaicite:4]{index=4}  
-  - **Parallel agents** – Supports multi-agent workflows (e.g. automated code review systems) :contentReference[oaicite:5]{index=5}  
+  - **Autonomous workflows** – Can implement features, fix bugs, and handle tasks end-to-end
+  - **Command execution** – Runs terminal commands, scripts, and developer tools 
+  - **Tool integration** – Works with Git, CI/CD, databases, and external services 
+  - **Parallel agents** – Supports multi-agent workflows (e.g. automated code review systems)
 
 - **Interfaces & Usage**:
   - Terminal (primary interface)  
   - VS Code / JetBrains integrations  
   - Web interface  
-  - Slack / team workflows :contentReference[oaicite:6]{index=6}  
+  - Slack / team workflows 
 
 - **Agent System**:
   - Uses **tool-based execution** (files, shell, APIs, web)  
@@ -443,7 +443,7 @@ Claude Code is Anthropic’s agentic coding system designed to handle full softw
   - Can operate with **memory/context across workflows**  
 
 - **Platform Features**:
-  - **Code Review (multi-agent)** – Automatically reviews pull requests using parallel agents :contentReference[oaicite:7]{index=7}  
+  - **Code Review (multi-agent)** – Automatically reviews pull requests using parallel agents  
   - **GitHub / GitLab integration** – Reads issues, writes code, and opens PRs  
   - **Configurable agent behavior** – Supports custom “skills” and workflows  
 
