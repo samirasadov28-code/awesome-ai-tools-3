@@ -1080,6 +1080,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[OpenFang](https://github.com/RightNow-AI/openfang)** — Open-source Agent Operating System built in Rust (137K LOC, 14 crates, 1,767+ tests, zero Clippy warnings). Ships as a single ~32 MB binary with 7 autonomous "Hands" that run on schedules without you prompting them (Researcher, Lead, Browser, Clip, Collector, Predictor, Twitter), 40 channel adapters, 16 security layers (WASM sandbox, Merkle audit trail, taint tracking, SSRF protection, etc.), and a FangHub skill marketplace. Apache-2.0 / MIT. → [Website](https://openfang.sh/)
 
+- **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** — Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. → [Website](https://swarmclaw.ai)
+
 ### General-Purpose Agent Frameworks
 
 - **[OpenManus](https://github.com/FoundationAgents/OpenManus)** — Open-source framework for building general AI agents, created by the MetaGPT team as a fully open alternative to the invite-only Manus platform. Supports multi-agent flows, browser, shell, code execution, and web search. Also see **[OpenManus-RL](https://github.com/FoundationAgents/OpenManus)** for RL-based agent fine-tuning (GRPO). MIT.
@@ -1119,6 +1121,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official plugin resources and examples for extending Claude-based workflows.
 - **[superpowers](https://github.com/obra/superpowers)** — Tooling for giving AI systems richer capabilities and more flexible action patterns in practical workflows.
 - **[mempalace](https://github.com/milla-jovovich/mempalace)** — Memory-oriented tooling for AI agents, focused on persistent context, recall, and more structured long-term memory behavior.
+- **[SwarmVault](https://github.com/swarmclawai/swarmvault)** — Local-first RAG knowledge base compiler inspired by Karpathy's LLM Wiki. Three-layer raw/wiki/schema architecture, persistent markdown wiki, knowledge graph, hybrid SQLite FTS + embeddings, contradiction detection, and a built-in MCP server. MIT.
 ---
 ## 🆕 Additional AI and Productivity Tools
 
