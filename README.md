@@ -1148,6 +1148,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
 - [Canva](https://www.canva.com/) - Easy Graphic Design
+- [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered visual mind mapping
 - [aimatchpro](https://aimatch.pro/) - Platform to search for Aitools
 - [Instafill.ai](https://instafill.ai) – AI PDF Form Filler
 - [UnSoloMind.com](https://unsolomind.com) – Knowledge base AI assistant
