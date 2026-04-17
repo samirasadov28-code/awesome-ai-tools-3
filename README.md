@@ -1122,6 +1122,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[superpowers](https://github.com/obra/superpowers)** — Tooling for giving AI systems richer capabilities and more flexible action patterns in practical workflows.
 - **[mempalace](https://github.com/milla-jovovich/mempalace)** — Memory-oriented tooling for AI agents, focused on persistent context, recall, and more structured long-term memory behavior.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** — Local-first RAG knowledge base compiler inspired by Karpathy's LLM Wiki. Three-layer raw/wiki/schema architecture, persistent markdown wiki, knowledge graph, hybrid SQLite FTS + embeddings, contradiction detection, and a built-in MCP server. MIT.
+- **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** — CLI tool that benchmarks SKILL.md guidance docs against multiple LLMs, measures whether models call the right SDK/CLI/MCP tools with correct arguments, and runs an iterative optimizer to rewrite your docs until every configured model meets a score floor. MIT.
 ---
 ## 🆕 Additional AI and Productivity Tools
 
