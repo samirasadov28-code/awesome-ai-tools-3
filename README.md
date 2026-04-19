@@ -1602,6 +1602,7 @@ Discover the power of AI in music with these tools designed for generating, comp
 - [Audiolabs](https://audiolabs-erlangen.de) - AI and music research.
 - [SOUNDRAW](https://soundraw.io) - AI music composition for videos.
 - [Lumen5](https://lumen5.com) - AI-driven music video maker.
+- [AceTagGen](https://acetaggen.com) - Free prompt builder for Suno AI. Structured dropdowns for mood, genre, instruments, and SFX that respect Suno's 200-char Style limit. Includes example library and quality score.
 
 ---
 
