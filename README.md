@@ -1913,3 +1913,14 @@ This section covers some of the most advanced software platforms for working wit
 
 - **[StackBuilt](https://stackbuilt.co)** - Curated AI tool stacks and honest reviews for solopreneurs. No sponsored content, just tools that work.
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
+
+---
+
+
+<p align="center">
+  <a href="https://star-history.com/#eudk/awesome-ai-tools&Date">
+    <img src="https://api.star-history.com/svg?repos=eudk/awesome-ai-tools&type=Date" alt="Star History" width="800">
+  </a>
+</p>
+
+
